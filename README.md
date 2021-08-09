@@ -11,4 +11,4 @@ Thanks for dropping by my profile
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with CI/CD, SOP
 - 💬 Ask me about React Native, React, Django
-- 📫 How to reach me: evans@vorane.com
+- 📫 How to reach me: evans[at]vorane.com
