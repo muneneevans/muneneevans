@@ -6,7 +6,7 @@
 
 Thanks for dropping by my profile
 
-- 🔭 I’m currently working on Work stuff at [vorane.com](https://vorane.com)
+- 🔭 I’m currently working on Work stuff at [chumz.io](https://chumz.io)
 - 🌱 I’m currently learning Animations
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with CI/CD, SOP
